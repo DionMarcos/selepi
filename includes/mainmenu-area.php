@@ -13,6 +13,7 @@
                     <ul class="nav navbar-nav">
                         <li class="active"><a href="index.php"><span class="fa fa-home"> </span></a></li>
                         <li><a href="#">Quem Somos</a></li>
+                        <li><a href="#">Representantes</a></li>
                         <li><a href="shop.php">Shopping</a></li>
                         <li><a href="cart.php">Carrinho de Compras</a></li>
                         <li><a href="shop.php">Catálogo de Produtos</a></li>
