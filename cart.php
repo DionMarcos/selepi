@@ -13,7 +13,7 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="product-bit-title text-center">
-                        <h2>Shopping Cart</h2>
+                        <h2>Carrinho de Compras</h2>
                     </div>
                 </div>
             </div>
