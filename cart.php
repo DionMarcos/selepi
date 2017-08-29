@@ -27,38 +27,38 @@
             <div class="row">
                 <div class="col-md-4">
                     <div class="single-sidebar">
-                        <h2 class="sidebar-title">Search Products</h2>
+                        <h2 class="sidebar-title">Pesquisar Produtos</h2>
                         <form action="#">
-                            <input type="text" placeholder="Search products...">
-                            <input type="submit" value="Search">
+                            <input type="text" placeholder="Pesquisar Produtos...">
+                            <input type="submit" value="Pesquisa">
                         </form>
                     </div>
                     
                     <div class="single-sidebar">
-                        <h2 class="sidebar-title">Products</h2>
+                        <h2 class="sidebar-title">Produtos</h2>
                         <div class="thubmnail-recent">
-                            <img src="img/product-thumb-1.jpg" class="recent-thumb" alt="">
+                            <img src="img/product-thumb-1.png" class="recent-thumb" alt="">
                             <h2><a href="single-product.html">Sony Smart TV - 2015</a></h2>
                             <div class="product-sidebar-price">
                                 <ins>$700.00</ins> <del>$800.00</del>
                             </div>                             
                         </div>
                         <div class="thubmnail-recent">
-                            <img src="img/product-thumb-1.jpg" class="recent-thumb" alt="">
+                            <img src="img/product-thumb-1.png" class="recent-thumb" alt="">
                             <h2><a href="single-product.html">Sony Smart TV - 2015</a></h2>
                             <div class="product-sidebar-price">
                                 <ins>$700.00</ins> <del>$800.00</del>
                             </div>                             
                         </div>
                         <div class="thubmnail-recent">
-                            <img src="img/product-thumb-1.jpg" class="recent-thumb" alt="">
+                            <img src="img/product-thumb-1.png" class="recent-thumb" alt="">
                             <h2><a href="single-product.html">Sony Smart TV - 2015</a></h2>
                             <div class="product-sidebar-price">
                                 <ins>$700.00</ins> <del>$800.00</del>
                             </div>                             
                         </div>
                         <div class="thubmnail-recent">
-                            <img src="img/product-thumb-1.jpg" class="recent-thumb" alt="">
+                            <img src="img/product-thumb-1.png" class="recent-thumb" alt="">
                             <h2><a href="single-product.html">Sony Smart TV - 2015</a></h2>
                             <div class="product-sidebar-price">
                                 <ins>$700.00</ins> <del>$800.00</del>
@@ -67,7 +67,7 @@
                     </div>
                     
                     <div class="single-sidebar">
-                        <h2 class="sidebar-title">Recent Posts</h2>
+                        <h2 class="sidebar-title">POSTAGENS RECENTES</h2>
                         <ul>
                             <li><a href="#">Sony Smart TV - 2015</a></li>
                             <li><a href="#">Sony Smart TV - 2015</a></li>
@@ -87,9 +87,9 @@
                                         <tr>
                                             <th class="product-remove">&nbsp;</th>
                                             <th class="product-thumbnail">&nbsp;</th>
-                                            <th class="product-name">Product</th>
-                                            <th class="product-price">Price</th>
-                                            <th class="product-quantity">Quantity</th>
+                                            <th class="product-name">PRODUTOS</th>
+                                            <th class="product-price">Preço</th>
+                                            <th class="product-quantity">Quantidade</th>
                                             <th class="product-subtotal">Total</th>
                                         </tr>
                                     </thead>
@@ -100,11 +100,11 @@
                                             </td>
 
                                             <td class="product-thumbnail">
-                                                <a href="single-product.html"><img width="145" height="145" alt="poster_1_up" class="shop_thumbnail" src="img/product-thumb-2.jpg"></a>
+                                                <a href="single-product.html"><img width="145" height="145" alt="poster_1_up" class="shop_thumbnail" src="img/product-thumb-2.png"></a>
                                             </td>
 
                                             <td class="product-name">
-                                                <a href="single-product.html">Ship Your Idea</a> 
+                                                <a href="single-product.html">Envie sua ideia</a> 
                                             </td>
 
                                             <td class="product-price">
@@ -126,12 +126,12 @@
                                         <tr>
                                             <td class="actions" colspan="6">
                                                 <div class="coupon">
-                                                    <label for="coupon_code">Coupon:</label>
-                                                    <input type="text" placeholder="Coupon code" value="" id="coupon_code" class="input-text" name="coupon_code">
-                                                    <input type="submit" value="Apply Coupon" name="apply_coupon" class="button">
+                                                    <label for="coupon_code">Cupom:</label>
+                                                    <input type="text" placeholder="Código do cupom" value="" id="coupon_code" class="input-text" name="coupon_code">
+                                                    <input type="submit" value="Aplicar Cupom" name="apply_coupon" class="button">
                                                 </div>
-                                                <input type="submit" value="Update Cart" name="update_cart" class="button">
-                                                <input type="submit" value="Proceed to Checkout" name="proceed" class="checkout-button button alt wc-forward">
+                                                <input type="submit" value="Atualizar carrinho" name="update_cart" class="button">
+                                                <input type="submit" value="Finalizar Compra" name="proceed" class="checkout-button button alt wc-forward">
                                             </td>
                                         </tr>
                                     </tbody>
@@ -142,48 +142,48 @@
 
 
                             <div class="cross-sells">
-                                <h2>You may be interested in...</h2>
+                                <h2>VOCÊ PODE SER INTERESSADO EM ...</h2>
                                 <ul class="products">
                                     <li class="product">
                                         <a href="single-product.html">
-                                            <img width="325" height="325" alt="T_4_front" class="attachment-shop_catalog wp-post-image" src="img/product-2.jpg">
-                                            <h3>Ship Your Idea</h3>
+                                            <img width="325" height="325" alt="T_4_front" class="attachment-shop_catalog wp-post-image" src="img/product-2.png">
+                                            <h3>Envie sua ideia</h3>
                                             <span class="price"><span class="amount">£20.00</span></span>
                                         </a>
 
-                                        <a class="add_to_cart_button" data-quantity="1" data-product_sku="" data-product_id="22" rel="nofollow" href="single-product.html">Select options</a>
+                                        <a class="add_to_cart_button" data-quantity="1" data-product_sku="" data-product_id="22" rel="nofollow" href="single-product.html">Selecione as opções</a>
                                     </li>
 
                                     <li class="product">
                                         <a href="single-product.html">
-                                            <img width="325" height="325" alt="T_4_front" class="attachment-shop_catalog wp-post-image" src="img/product-4.jpg">
-                                            <h3>Ship Your Idea</h3>
+                                            <img width="325" height="325" alt="T_4_front" class="attachment-shop_catalog wp-post-image" src="img/product-4.png">
+                                            <h3>Envie sua ideia</h3>
                                             <span class="price"><span class="amount">£20.00</span></span>
                                         </a>
 
-                                        <a class="add_to_cart_button" data-quantity="1" data-product_sku="" data-product_id="22" rel="nofollow" href="single-product.html">Select options</a>
+                                        <a class="add_to_cart_button" data-quantity="1" data-product_sku="" data-product_id="22" rel="nofollow" href="single-product.html">Selecione as opções</a>
                                     </li>
                                 </ul>
                             </div>
 
 
                             <div class="cart_totals ">
-                                <h2>Cart Totals</h2>
+                                <h2>TOTAL DE CARRINHO</h2>
 
                                 <table cellspacing="0">
                                     <tbody>
                                         <tr class="cart-subtotal">
-                                            <th>Cart Subtotal</th>
+                                            <th>Subtotal do carrinho</th>
                                             <td><span class="amount">£15.00</span></td>
                                         </tr>
 
                                         <tr class="shipping">
-                                            <th>Shipping and Handling</th>
-                                            <td>Free Shipping</td>
+                                            <th>Envio e Manipulação</th>
+                                            <td>Frete grátis</td>
                                         </tr>
 
                                         <tr class="order-total">
-                                            <th>Order Total</th>
+                                            <th>total de pedidos</th>
                                             <td><strong><span class="amount">£15.00</span></strong> </td>
                                         </tr>
                                     </tbody>
@@ -192,7 +192,7 @@
 
 
                             <form method="post" action="#" class="shipping_calculator">
-                                <h2><a class="shipping-calculator-button" data-toggle="collapse" href="#calcalute-shipping-wrap" aria-expanded="false" aria-controls="calcalute-shipping-wrap">Calculate Shipping</a></h2>
+                                <h2><a class="shipping-calculator-button" data-toggle="collapse" href="#calcalute-shipping-wrap" aria-expanded="false" aria-controls="calcalute-shipping-wrap">CALCULAR O ENVIO</a></h2>
 
                                 <section id="calcalute-shipping-wrap" class="shipping-calculator-form collapse">
 
