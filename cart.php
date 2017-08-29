@@ -38,33 +38,33 @@
                         <h2 class="sidebar-title">Produtos</h2>
                         <div class="thubmnail-recent">
                             <img src="img/product-thumb-1.png" class="recent-thumb" alt="">
-                            <h2><a href="single-product.html">Sony Smart TV - 2015</a></h2>
+                            <h2><a href="single-product.html">Água Deionizada</a></h2>
                             <div class="product-sidebar-price">
-                                <ins>$700.00</ins> <del>$800.00</del>
+                                <ins>R$700.00</ins> <del>R$800.00</del>
                             </div>                             
                         </div>
                         <div class="thubmnail-recent">
                             <img src="img/product-thumb-1.png" class="recent-thumb" alt="">
-                            <h2><a href="single-product.html">Sony Smart TV - 2015</a></h2>
+                            <h2><a href="single-product.html">Água Deionizada</a></h2>
                             <div class="product-sidebar-price">
-                                <ins>$700.00</ins> <del>$800.00</del>
+                                <ins>R$700.00</ins> <del>R$800.00</del>
                             </div>                             
                         </div>
                         <div class="thubmnail-recent">
                             <img src="img/product-thumb-1.png" class="recent-thumb" alt="">
-                            <h2><a href="single-product.html">Sony Smart TV - 2015</a></h2>
+                            <h2><a href="single-product.html">Água Deionizada</a></h2>
                             <div class="product-sidebar-price">
-                                <ins>$700.00</ins> <del>$800.00</del>
+                                <ins>R$700.00</ins> <del>R$800.00</del>
                             </div>                             
                         </div>
                         <div class="thubmnail-recent">
                             <img src="img/product-thumb-1.png" class="recent-thumb" alt="">
-                            <h2><a href="single-product.html">Sony Smart TV - 2015</a></h2>
+                            <h2><a href="single-product.html">Água Deionizada</a></h2>
                             <div class="product-sidebar-price">
-                                <ins>$700.00</ins> <del>$800.00</del>
+                                <ins>R$700.00</ins> <del>R$800.00</del>
                             </div>                             
                         </div>
-                    </div>
+                    </div> 
                     
                     <div class="single-sidebar">
                         <h2 class="sidebar-title">POSTAGENS RECENTES</h2>
@@ -108,7 +108,7 @@
                                             </td>
 
                                             <td class="product-price">
-                                                <span class="amount">£15.00</span> 
+                                                <span class="amount">R$15.00</span> 
                                             </td>
 
                                             <td class="product-quantity">
@@ -120,7 +120,7 @@
                                             </td>
 
                                             <td class="product-subtotal">
-                                                <span class="amount">£15.00</span> 
+                                                <span class="amount">R$15.00</span> 
                                             </td>
                                         </tr>
                                         <tr>
@@ -148,7 +148,7 @@
                                         <a href="single-product.html">
                                             <img width="325" height="325" alt="T_4_front" class="attachment-shop_catalog wp-post-image" src="img/product-2.png">
                                             <h3>Envie sua ideia</h3>
-                                            <span class="price"><span class="amount">£20.00</span></span>
+                                            <span class="price"><span class="amount">R$20.00</span></span>
                                         </a>
 
                                         <a class="add_to_cart_button" data-quantity="1" data-product_sku="" data-product_id="22" rel="nofollow" href="single-product.html">Selecione as opções</a>
@@ -158,7 +158,7 @@
                                         <a href="single-product.html">
                                             <img width="325" height="325" alt="T_4_front" class="attachment-shop_catalog wp-post-image" src="img/product-4.png">
                                             <h3>Envie sua ideia</h3>
-                                            <span class="price"><span class="amount">£20.00</span></span>
+                                            <span class="price"><span class="amount">R$20.00</span></span>
                                         </a>
 
                                         <a class="add_to_cart_button" data-quantity="1" data-product_sku="" data-product_id="22" rel="nofollow" href="single-product.html">Selecione as opções</a>
@@ -174,7 +174,7 @@
                                     <tbody>
                                         <tr class="cart-subtotal">
                                             <th>Subtotal do carrinho</th>
-                                            <td><span class="amount">£15.00</span></td>
+                                            <td><span class="amount">R$15.00</span></td>
                                         </tr>
 
                                         <tr class="shipping">
@@ -184,7 +184,7 @@
 
                                         <tr class="order-total">
                                             <th>total de pedidos</th>
-                                            <td><strong><span class="amount">£15.00</span></strong> </td>
+                                            <td><strong><span class="amount">R$15.00</span></strong> </td>
                                         </tr>
                                     </tbody>
                                 </table>
